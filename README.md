@@ -22,6 +22,7 @@ Security researcher across blockchain protocols and smart contracts. L1/L2 node 
 |Platform|Rank|Contest link|Leaderboard link|
 |--------|:--:|-----------|----------------|
 |[immunefi](https://immunefi.com/audit-competition/audit-comp-base-azul/leaderboard/#top)|#11|[Audit Comp \| Base / Azul](https://immunefi.com/audit-competition/audit-comp-base-azul/leaderboard/#top)|[leaderboard](https://immunefi.com/audit-competition/audit-comp-base-azul/leaderboard/#top)|
+|[sherlock](https://audits.sherlock.xyz/contests/1260)|#4|[XRP Ledger - April 2026](https://audits.sherlock.xyz/contests/1260)|[leaderboard](https://audits.sherlock.xyz/contests/1260/leaderboard)|
 
 ## Socials
 
